@@ -15,7 +15,9 @@ FOR LATER REFERENCE (these settings are to greatly, GREATLY increase generated L
 SkyrimPrefs.ini
 
 [TerrainManager]
+
 bShowLODInEditor=1
+
 fBlockLevel0Distance=20000.0000
 
 fBlockLevel1Distance=42000.0000
@@ -29,7 +31,9 @@ fTreeLoadDistance=25600.0000
 to
 
 [TerrainManager]
+
 bShowLODInEditor=1
+
 fBlockLevel0Distance=95000.0000
 
 fBlockLevel1Distance=140000.0000
