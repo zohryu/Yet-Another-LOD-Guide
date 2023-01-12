@@ -17,9 +17,13 @@ SkyrimPrefs.ini
 [TerrainManager]
 bShowLODInEditor=1
 fBlockLevel0Distance=20000.0000
+
 fBlockLevel1Distance=42000.0000
+
 fBlockMaximumDistance=120000.0000
+
 fSplitDistanceMult=0.7500
+
 fTreeLoadDistance=25600.0000
 
 to
@@ -27,9 +31,13 @@ to
 [TerrainManager]
 bShowLODInEditor=1
 fBlockLevel0Distance=95000.0000
+
 fBlockLevel1Distance=140000.0000
+
 fBlockMaximumDistance=500000.0000
+
 fSplitDistanceMult=4.0
+
 fTreeLoadDistance=25600.0000
 
 Skyrim.ini
