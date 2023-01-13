@@ -126,9 +126,11 @@ I've written this guide in tandem with it to help users (like myself) who have d
 
 PREAMBLE : 
 
-    		Ensure all .ini configurations for No Grass In Objects is correct at various steps
-		Ensure all necessary pre-requisite mods are downloaded (from the Github guide first section).
-		Ensure you have run the xEdit script to filter the appropriate grass-filled worldspaces to add to the GrassControl.Config.txt (Github guide second section)
+    	Ensure all .ini configurations for No Grass In Objects is correct at various steps
+	
+	Ensure all necessary pre-requisite mods are downloaded (from the Github guide first section).
+	
+	Ensure you have run the xEdit script to filter the appropriate grass-filled worldspaces to add to the GrassControl.Config.txt (Github guide second section)
 
 
 1. Enable the grass mods you wish to use.
