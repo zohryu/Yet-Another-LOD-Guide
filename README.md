@@ -145,7 +145,7 @@ PREAMBLE :
 
 6. Enable the following grass mods :
 
-	The actual grass mods that you tested prior to this and will use (stacked in override order).
+		The actual grass mods that you tested prior to this and will use (stacked in override order).
   
 		Landscape Fixes For Grass Mods
 	
