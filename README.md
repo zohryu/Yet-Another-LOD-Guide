@@ -69,19 +69,19 @@ Deactivation :
 
 5. Verify that the following mods are disabled :
 	
-Mists of Tamriel
+		Mists of Tamriel
 
-Blubbo Riften Outer Trees Visible
+		Blubbo Riften Outer Trees Visible
 
-All Blubbo City Trees
+		All Blubbo City Trees
 
-All Flat World Map Framework + Maps
+		All Flat World Map Framework + Maps
 
-Water For ENB Vominheim
+		Water For ENB Vominheim
 
-Lux Water for ENB Patch
+		Lux Water for ENB Patch
 
-All Nature of the Wildlands Patches
+		All Nature of the Wildlands Patches
 
 
 
