@@ -70,12 +70,19 @@ Deactivation :
 5. Verify that the following mods are disabled :
 	
 Mists of Tamriel
+
 Blubbo Riften Outer Trees Visible
+
 All Blubbo City Trees
+
 All Flat World Map Framework + Maps
+
 Water For ENB Vominheim
+
 Lux Water for ENB Patch
+
 All Nature of the Wildlands Patches
+
 
 
 The above list is not exhaustive.
@@ -118,9 +125,10 @@ You MUST read this guide, step-by-step, slowly, as you progress through the step
 I've written this guide in tandem with it to help users (like myself) who have difficulty following the Github guide.
 
 PREAMBLE : 
-    Ensure all .ini configurations for No Grass In Objects is correct at various steps.
+
+    		Ensure all .ini configurations for No Grass In Objects is correct at various steps
 		Ensure all necessary pre-requisite mods are downloaded (from the Github guide first section).
-		Ensure you have run the xEdit script to filter the appropriate grass-filled worldspaces to add to the GrassControl.Config.txt (Github guide second section).
+		Ensure you have run the xEdit script to filter the appropriate grass-filled worldspaces to add to the GrassControl.Config.txt (Github guide second section)
 
 
 1. Enable the grass mods you wish to use.
@@ -137,10 +145,13 @@ PREAMBLE :
 
 	The actual grass mods that you tested prior to this and will use (stacked in override order).
   
-	Landscape Fixes For Grass Mods
-	No Grassias - A Universal Grass Fix For Grass Mods
-	Complimentary Grass Fixes
-	No Grass in Caves
+		Landscape Fixes For Grass Mods
+	
+		No Grassias - A Universal Grass Fix For Grass Mods
+	
+		Complimentary Grass Fixes
+	
+		No Grass in Caves
 
 7. Ensure Grass Control & No Grass in Objects is turned on and properly configured (Refer to GitHub guide).
 
@@ -241,11 +252,15 @@ Dyndolod
 1. Ensure any mods that are giving errors with Dyndolod are either cleaned, error-checked, or disabled.
 
 	The only water mods that should be enable are :
+	
 		Water for ENB (or whatever water mod you use)
+		
 		Water Effects Brightness and Reflection Fix
+		
 		FYX - Water Splash - Bright Water for ENB - WEBaRF (LOD)
-
+		
 		Majestic Mountains LOD pack MUST overwrite DynDOLOD Resources SE
+		
 
 2. Launch Dyndolod.
 
